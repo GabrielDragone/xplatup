@@ -38,6 +38,7 @@ namespace XplatCollect
             containerRegistry.RegisterForNavigation<MainPage>();
             containerRegistry.RegisterForNavigation<ProfilePage>();
             containerRegistry.RegisterForNavigation<NewCollectionPage>();
+            containerRegistry.RegisterForNavigation<CollectionPage>();
         }
     }
 }
